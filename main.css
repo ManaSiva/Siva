@@ -1,0 +1,10 @@
+*{
+    background-color:#E487B1;
+    font-family:cursive;
+}
+
+.flex{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
